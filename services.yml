@@ -1,0 +1,8 @@
+Project: Test
+  Service: auth
+    __controllers: signup,login
+    __models: auth_
+    __routes: auth
+
+  
+
